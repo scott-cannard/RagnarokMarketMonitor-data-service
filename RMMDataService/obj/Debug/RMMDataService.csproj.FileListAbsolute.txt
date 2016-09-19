@@ -1,8 +1,0 @@
-C:\Users\Scott\documents\visual studio 2015\Projects\RMMDataService\RMMDataService\bin\RMMDataService.dll.config
-C:\Users\Scott\documents\visual studio 2015\Projects\RMMDataService\RMMDataService\bin\RMMDataService.dll
-C:\Users\Scott\documents\visual studio 2015\Projects\RMMDataService\RMMDataService\bin\RMMDataService.pdb
-C:\Users\Scott\documents\visual studio 2015\Projects\RMMDataService\RMMDataService\obj\Debug\RMMDataService.dll
-C:\Users\Scott\documents\visual studio 2015\Projects\RMMDataService\RMMDataService\obj\Debug\RMMDataService.pdb
-C:\Users\Scott\documents\visual studio 2015\Projects\RMMDataService\RMMDataService\bin\RMMSharedModels.dll
-C:\Users\Scott\documents\visual studio 2015\Projects\RMMDataService\RMMDataService\bin\RMMSharedModels.pdb
-C:\Users\Scott\documents\visual studio 2015\Projects\RMMDataService\RMMDataService\obj\Debug\RMMDataService.csprojResolveAssemblyReference.cache

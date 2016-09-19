@@ -44,7 +44,7 @@
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="RMMSharedModels">
-      <HintPath>..\..\..\..\Visual Studio 2013\Projects\RMMClient\RMMSharedModels\bin\Debug\RMMSharedModels.dll</HintPath>
+      <HintPath>..\..\..\..\Visual Studio 2013\Projects\_School\_Sr.Project\RMMClient\RMMSharedModels\bin\Debug\RMMSharedModels.dll</HintPath>
     </Reference>
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Net.Http" />
