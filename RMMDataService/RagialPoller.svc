@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="RMMDataService.RagialPoller" CodeBehind="RagialPoller.svc.cs" %>
